@@ -2,8 +2,8 @@
 
 Here we can write down out findings on more detailed informatetion or more in deeph explaination on the models. 
 
-## Dessition Trees
+## * Dessition Trees
 
-## Rules Learning 
+## * Rules Learning 
 
-## K Nearest Neighbors
+## * K Nearest Neighbors
